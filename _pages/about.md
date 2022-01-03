@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Siddharth Gurumurthy"
+title: Siddharth Gurumurthy
 excerpt: "About me"
 author_profile: true
 redirect_from: 
