@@ -13,7 +13,7 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "siddharth64/siddharth64.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Siddharth Gurumurthy"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a graduate student at the Univeristy of Rochester. I’m broadly interested in homotopy theory, category theory and algebraic topology."
   location         : "Location"
-  email            : sgurumur#@#ur.rochester.edu (remove #)
+  email            : "sgurumur@ur.rochester.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,7 +104,7 @@ author:
   pinterest        :
   soundcloud       :
   stackexchange    : "https://math.stackexchange.com/users/202886/siddharth64"
-  Mathoverflow     : "∅" 
+  Mathoverflow     : "https://mathoverflow.net/users/57193/siddharth64" 
   steam            :
   tumblr           :
   twitter          : "SiddharthGurum2"
