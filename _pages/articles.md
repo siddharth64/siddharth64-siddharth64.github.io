@@ -7,12 +7,11 @@ author_profile: true
 
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+The following notes were written down as a part of projects for courses or for giving presentations. On average, these are highly unoriginal and derive heavily from one or two sources.
+There are probably errors in all of these, and the quality of writing could use some improvement. 
+When I'm not feeling lazy, I might come back and proofread and/or edit these in the future.
 
-{% include base_path %}
+1. [Characteristic Class](http://siddharth64.github.io/files/CharClasses.pdf): This implicitly assumes you know what a Riemannian metric and a connection on a manifold is, even though this is not a strict prerequisite.
+ It starts off with defining connections on vector bundles and goes on to talk about various characteristic classes.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2. [Model Categories](
