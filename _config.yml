@@ -10,7 +10,7 @@
 # minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # Site Settings
 locale                   : "en-US"
-title                    : "Siddhart's Home Page"
+title                    : "Siddharth's Home Page"
 title_separator          : "-"
 name                     : &name "Siddharth Gurumurthy"
 description              : &description "personal description"
