@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a graduate student at the Univeristy of Rochester. I'm broadly interested in homotopy theory, category theory and algebraic topology. I am currently reading/thinking about infinity cateogories as a launch-pad for Higher Algebra.
+Hi! I am a graduate student at the University of Rochester. I'm broadly interested in homotopy theory, category theory and algebraic topology. I am currently reading/thinking about infinity categories as a launch-pad for Higher Algebra.
 
 You can find my CV [here](/files/CV.pdf). This was last updated in January 2021.
 I occasionally also think about automated theorem proving. 
